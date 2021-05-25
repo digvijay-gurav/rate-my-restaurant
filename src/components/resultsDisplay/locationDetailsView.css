@@ -1,0 +1,17 @@
+.venueContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 1px solid;
+    width: 70%;
+    margin: 0 auto;
+}
+.venueleftBlock {
+    width: 30%;
+    display: flex;
+}
+.restaurantCellMain {
+    border: 1px solid;
+    width: 21%;
+    padding: 10px;
+}
